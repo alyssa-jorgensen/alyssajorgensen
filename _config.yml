@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  alyssa-jorgensen
 
 # Build settings
-theme: wax_theme
+theme: "ed."
 plugins:
   - jekyll-feed
 
